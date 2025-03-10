@@ -1,2 +1,2 @@
-# La-caba-a
+# La-cabaña
 Juego interactivo de terror
